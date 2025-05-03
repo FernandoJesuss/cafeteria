@@ -2,6 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -266,22 +268,134 @@ main {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
     max-height: 3em;
-    
+
 }
 
 .service-card:hover .p-card-service {
     color: #ffffff;
 }
 
+footer {
+    background-color: #270c03 !important;
+    min-height: 150px;
+    padding: 1rem;
+}
+
+.div-logo-footer {
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.p-footer {
+    color: white;
+    margin: 1rem;
+    text-align: center;
+}
+
+.div-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.social_icon,
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    list-style: none;
+    padding: 0;
+
+
+}
+
+.social_icon li,
+.menu li {
+    display: flex;
+
+}
+
+.social_icon a,
+.menu a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+
+}
+
+.img-icon {
+    width: 30px;
+    /* Define a largura da imagem */
+    height: 30px;
+    /* Define a altura da imagem */
+    margin: 0 10px;
+    /* Adiciona margem horizontal */
+    transition: transform 0.3s;
+    /* Adiciona uma transição suave */
+}
+
+.img-icon:hover {
+    transform: scale(1.1);
+    /* Aumenta a imagem ao passar o mouse */
+}
+
+
+.menu li a {
+    text-decoration: none;
+    color: #ffffffb3;
+    display: inline-block;
+    line-height: 1.75rem;
+
+}
+
+.menu li a:hover {
+    color: white;
+    transition-duration: 500ms;
+
+}
+
+.social_icon li a {
+    text-decoration: none;
+    color: #ffffffb3;
+    display: inline-block;
+    line-height: 1.75rem;
+
+}
+
+.social_icon li a:hover {
+    color: white;
+    transition-duration: 500ms;
+}
+
+
+.span-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 2px;
+    color: white;
+
+}
 
 
 
 
+.img-fs {
+    width: 20vh;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: 5px;
 
-
-
-
-
+}
 
 
 
@@ -398,7 +512,7 @@ main {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 3.5rem;
-    }  
+    }
 }
 
 
