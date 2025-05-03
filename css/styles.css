@@ -18,6 +18,12 @@ html {
 
 body {
     overflow-x: hidden;
+
+    background-image: url('../img/textura-cafe.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    
 }
 
 header {
