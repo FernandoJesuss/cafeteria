@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -73,9 +73,9 @@ header {
     background-color: #784538;
     border: none;
     border-radius: 20px;
-    padding: 5px 1rem ;
-    color:rgb(235, 233, 233) ;
-    font-size:  1rem;
+    padding: 5px 1rem;
+    color: rgb(235, 233, 233);
+    font-size: 1rem;
 }
 
 .button-list:hover {
@@ -104,7 +104,7 @@ header {
     transition-duration: 500ms;
 
 }
- 
+
 .img-button- {
     margin-left: 5px;
 }
@@ -116,7 +116,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    color:rgb(235, 233, 233) ;
+    color: rgb(235, 233, 233);
 }
 
 .container-home {
@@ -132,7 +132,7 @@ main {
 }
 
 .div-text-home {
-text-align: start;
+    text-align: start;
 }
 
 .h1-text-home {
@@ -142,7 +142,7 @@ text-align: start;
 
 .span-h1-home {
     font-family: "Pacifico", cursive;
-    color:  #854d3d;
+    color: #854d3d;
 }
 
 .button-home {
@@ -150,14 +150,15 @@ text-align: start;
     border: 2px solid #854d3d;
     padding: 0.5rem 4rem;
     border-radius: 9999px;
-    color:white;
+    color: white;
     text-align: center;
     display: inline-block;
     transition: transforn 0.2s ease-in-out;
 
     cursor: pointer;
+
     &:hover {
-transform: scale(1.05);
+        transform: scale(1.05);
     }
 }
 
@@ -227,9 +228,77 @@ transform: scale(1.05);
 
 }
 
+@media screen and (max-width: 1137px) {
+    .h1-text-home {
+        font-size: 3.4rem;
+    }
 
+}
 
+@media screen and (max-width: 1069px) {
+    .h1-text-home {
+        font-size: 3.2rem;
+    }
 
+}
 
+@media screen and (max-width: 1035px) {
+    .h1-text-home {
+        font-size: 3.1rem;
+    }
 
+    .img-home {
+        width: 450px;
+    }
 
+}
+
+@media screen and (max-width: 960px) {
+    main {
+        min-height: 550px;
+    }
+
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .div-text-home {
+        text-align: center;
+    }
+
+    .h1-text-home {
+        font-size: 3.6rem;
+    }
+
+    .img-home {
+        width: 400px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .container-home {
+        padding: 50px 0;
+    }
+    
+    .h1-text-home {
+        font-size: 3rem;
+    }
+
+    .img-home {
+        width: 350px;
+    }
+
+}
+
+@media screen and (max-width: 460px) {      
+    .h1-text-home {
+        font-size: 2.2rem;
+    }
+
+    .img-home {
+        width: 250px;
+    }
+
+}
