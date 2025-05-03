@@ -104,7 +104,6 @@ header {
 .menu-link:hover {
     color: white;
     transition-duration: 500ms;
-
 }
 
 .img-button- {
@@ -311,13 +310,11 @@ footer {
     list-style: none;
     padding: 0;
 
-
 }
 
 .social_icon li,
 .menu li {
     display: flex;
-
 }
 
 .social_icon a,
@@ -328,23 +325,17 @@ footer {
     text-decoration: none;
     padding: 5px;
     color: white;
-
 }
 
 .img-icon {
     width: 30px;
-    /* Define a largura da imagem */
     height: 30px;
-    /* Define a altura da imagem */
     margin: 0 10px;
-    /* Adiciona margem horizontal */
     transition: transform 0.3s;
-    /* Adiciona uma transição suave */
 }
 
 .img-icon:hover {
     transform: scale(1.1);
-    /* Aumenta a imagem ao passar o mouse */
 }
 
 
@@ -375,7 +366,6 @@ footer {
     transition-duration: 500ms;
 }
 
-
 .span-logo {
     display: flex;
     align-items: center;
@@ -383,11 +373,7 @@ footer {
     text-decoration: none;
     padding: 2px;
     color: white;
-
 }
-
-
-
 
 .img-fs {
     width: 20vh;
