@@ -23,8 +23,8 @@ Informações de contato e desenvolvedor
 - Faça o download ou clone o repositório do projeto.
 - Abra o arquivo index.html em um navegador web.
 
-# Estrutura de Arquivos
-
+## Estrutura de Arquivos
+```sh
 cafeteria/
 ├── index.html
 ├── style.css
@@ -36,6 +36,7 @@ cafeteria/
 - images/: Diretório que contém as imagens utilizadas no projeto, neste caso, a imagem da página inicial.
 ---
 
+````
 ### [Projeto Acadêmico](pplx://action/followup)
 
 Este projeto foi desenvolvido como parte de um exercício acadêmico para demonstrar habilidades em:
@@ -46,3 +47,25 @@ Este projeto foi desenvolvido como parte de um exercício acadêmico para demons
 - **[Design Responsivo](pplx://action/followup):** O site foi projetado para ser responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos para garantir uma ótima experiência do usuário em qualquer plataforma.
 
 O objetivo principal foi aplicar conceitos de design e desenvolvimento web em um contexto lúdico e criativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
