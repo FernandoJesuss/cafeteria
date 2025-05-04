@@ -17,9 +17,7 @@ Links para as redes sociais da cafeteria (Facebook e Instagram)
 Informações de contato e desenvolvedor
 
 # Tecnologias Utilizadas
-HTML
-CSS
-JavaScript (não utilizado neste exemplo)
+HTML | CSS | JavaScript
 
 # Como Executar o Projeto
 Faça o download ou clone o repositório do projeto.
