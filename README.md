@@ -1,4 +1,4 @@
-![site_mario.jpg](https://github.com/FernandoJesuss/Projeto_Mario/blob/main/img/site_mario.png)
+![site_cafeteria.jpg](https://github.com/FernandoJesuss/cafeteria/blob/main/img/Home%20page.png)
 
 [Link do Projeto](https://fernandojesuss.github.io/cafeteria/)
 
@@ -23,12 +23,17 @@ Informações de contato e desenvolvedor
 - Faça o download ou clone o repositório do projeto.
 - Abra o arquivo index.html em um navegador web.
 
+# Estrutura de Arquivos
 
-
-
-
-
-
+cafeteria/
+├── index.html
+├── style.css
+└── images/
+    └── Home page.png
+    
+- index.html: Arquivo HTML que contém a estrutura da página.
+- style.css: Arquivo CSS que define o estilo da página.
+- images/: Diretório que contém as imagens utilizadas no projeto, neste caso, a imagem da página inicial.
 ---
 
 ### [Projeto Acadêmico](pplx://action/followup)
