@@ -9,6 +9,27 @@ Home Serviços Fale Sobre Pedidos
 Descrição
 Este é um website de uma cafeteria, com uma página inicial que apresenta o café como o produto principal da empresa. A página exibe informações sobre os principais tipos de café oferecidos, como Americano, Expresso e Cappuccino.
 
+
+# Funcionalidades
+Apresentação dos principais tipos de café da cafeteria
+Informações sobre a empresa e sua filosofia de "Código e cafeína"
+Links para as redes sociais da cafeteria (Facebook e Instagram)
+Informações de contato e desenvolvedor
+
+# Tecnologias Utilizadas
+HTML
+CSS
+JavaScript (não utilizado neste exemplo)
+
+# Como Executar o Projeto
+Faça o download ou clone o repositório do projeto.
+Abra o arquivo index.html em um navegador web.
+
+
+
+
+
+
 ## [Encanadores Mario & Luigi - Resolvendo Seus Problemas Com Estilo!](pplx://action/followup)
 
 Você já se encontrou em uma situação de emergência com encanamento? Vazamentos inesperados, canos entupidos ou torneiras que não param de pingar? Não se preocupe, porque estamos aqui para salvar o dia! Apresentamos a vocês os encanadores mais famosos do Reino dos Cogumelos - Mario & Luigi!
