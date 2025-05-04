@@ -28,11 +28,6 @@ Abra o arquivo index.html em um navegador web.
 
 
 
-## [Encanadores Mario & Luigi - Resolvendo Seus Problemas Com Estilo!](pplx://action/followup)
-
-Você já se encontrou em uma situação de emergência com encanamento? Vazamentos inesperados, canos entupidos ou torneiras que não param de pingar? Não se preocupe, porque estamos aqui para salvar o dia! Apresentamos a vocês os encanadores mais famosos do Reino dos Cogumelos - Mario & Luigi!
-
-[ENTRE EM CONTATO](link-para-contato)
 
 ---
 
