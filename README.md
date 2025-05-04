@@ -6,7 +6,7 @@ Home Serviços Fale Sobre Pedidos
 
 # Cafeteria - Website
 
-Descrição
+# Descrição
 Este é um website de uma cafeteria, com uma página inicial que apresenta o café como o produto principal da empresa. A página exibe informações sobre os principais tipos de café oferecidos, como Americano, Expresso e Cappuccino.
 
 
