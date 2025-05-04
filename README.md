@@ -20,8 +20,8 @@ Informações de contato e desenvolvedor
 HTML | CSS | JavaScript
 
 # Como Executar o Projeto
-Faça o download ou clone o repositório do projeto.
-Abra o arquivo index.html em um navegador web.
+- Faça o download ou clone o repositório do projeto.
+- Abra o arquivo index.html em um navegador web.
 
 
 
