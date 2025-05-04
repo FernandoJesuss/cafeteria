@@ -17,7 +17,7 @@ Links para as redes sociais da cafeteria (Facebook e Instagram)
 Informações de contato e desenvolvedor
 
 # Tecnologias Utilizadas
-HTML | CSS | JavaScript
+- HTML | CSS | JavaScript
 
 # Como Executar o Projeto
 - Faça o download ou clone o repositório do projeto.
@@ -37,7 +37,7 @@ Este projeto foi desenvolvido como parte de um exercício acadêmico para demons
 
 - **[Design de Interface](pplx://action/followup):** Criação de uma interface amigável e intuitiva.
 - **[Desenvolvimento Web](pplx://action/followup):** Implementação de um site funcional utilizando HTML, CSS e potencialmente JavaScript.
-- **[Branding Criativo](pplx://action/followup):** Desenvolvimento de uma marca memorável e alinhada com um tema divertido e conhecido.
+- **[Branding Criativo](pplx://action/followup):** Desenvolvimento de uma marca memorável.
 - **[Design Responsivo](pplx://action/followup):** O site foi projetado para ser responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos para garantir uma ótima experiência do usuário em qualquer plataforma.
 
 O objetivo principal foi aplicar conceitos de design e desenvolvimento web em um contexto lúdico e criativo.
