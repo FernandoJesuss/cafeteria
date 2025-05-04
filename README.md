@@ -42,7 +42,7 @@ cafeteria/
 Este projeto foi desenvolvido como parte de um exercício acadêmico para demonstrar habilidades em:
 
 - **[Design de Interface](pplx://action/followup):** Criação de uma interface amigável e intuitiva.
-- **[Desenvolvimento Web](pplx://action/followup):** Implementação de um site funcional utilizando HTML, CSS e potencialmente JavaScript.
+- **[Desenvolvimento Web](pplx://action/followup):** Implementação de um site funcional utilizando HTML, CSS e JavaScript.
 - **[Branding Criativo](pplx://action/followup):** Desenvolvimento de uma marca memorável.
 - **[Design Responsivo](pplx://action/followup):** O site foi projetado para ser responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos para garantir uma ótima experiência do usuário em qualquer plataforma.
 
