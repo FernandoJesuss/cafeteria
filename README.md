@@ -1,6 +1,6 @@
 ![site_cafeteria.jpg](https://github.com/FernandoJesuss/cafeteria/blob/main/img/Home%20page.png)
 
-[Link do Projeto](https://fernandojesuss.github.io/cafeteria/)
+[Link do Projeto](https://pjt-cafeteria.netlify.app/)
 
 Home Serviços Fale Sobre Pedidos
 
